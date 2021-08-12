@@ -6,6 +6,8 @@
 
 ## Demo
 
+![Demo](john_doe_demo.png)
+
 ## How to launch locally?
 
 Simply `git clone https://github.com/T-Damer/john-doe-portfolio.git`\
